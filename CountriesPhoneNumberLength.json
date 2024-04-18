@@ -247,4 +247,4 @@
   { "code": "ZA", "label": "South Africa", "phone": "27", "phoneLength": 9},
   { "code": "ZM", "label": "Zambia", "phone": "260", "phoneLength": 9},
   { "code": "ZW", "label": "Zimbabwe", "phone": "263", "phoneLength": 9},
-];
+]
